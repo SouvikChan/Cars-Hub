@@ -1,7 +1,4 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
-
-## Introduction
+# React, Next JS 13, TypeScript, Tailwind CSS
 The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
  
 Alongside building this application, you'll also learn how to:
@@ -12,7 +9,3 @@ Alongside building this application, you'll also learn how to:
 - Create custom filter, combobox, and modal elements
 - Maintain a well-organized file and folder structure.
 - Embrace the principles of writing clean code.
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
