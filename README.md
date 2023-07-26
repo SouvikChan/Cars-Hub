@@ -11,3 +11,4 @@ Alongside building this application, you'll also learn how to:
 - Create custom filter, combobox, and modal elements
 - Maintain a well-organized file and folder structure.
 - Embrace the principles of writing clean code.
+- Embrace the group development assosiated with Sukanya , Souvik, Deep, Joytosh.
