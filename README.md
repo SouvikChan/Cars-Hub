@@ -10,4 +10,6 @@ Alongside building this application, you'll also learn how to:
 - Optimize Metadata and SEO
 - Create custom filter, combobox, and modal elements
 - Maintain a well-organized file and folder structure.
+- Maintain a well developed car renting website.
 - Embrace the principles of writing clean code.
+- Embrace the group development assosiated with Sukanya , Souvik, Deep, Joytosh.
