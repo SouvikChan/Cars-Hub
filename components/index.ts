@@ -6,6 +6,7 @@ import NavBar from "./Navbar";
 import ShowMore from "./ShowMore";
 import SearchBar from "./Searchbar";
 import Hero from "./Hero";
+import Microphone from './Microphone';
 
 export {
   Hero,
